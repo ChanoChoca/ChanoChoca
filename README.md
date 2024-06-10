@@ -12,6 +12,8 @@ I'm a Full Stack developer with a primary focus on backend development in Java. 
 * 🧠  I'm learning Angular, Typescript, Node.js.
 * ⚡  In my free time occasionally I stream games.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 ### Skills
 
 <p align="left">
