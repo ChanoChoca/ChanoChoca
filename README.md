@@ -12,8 +12,14 @@ I'm a Full Stack developer with a primary focus on backend development in Java. 
 * 🧠  I'm learning Angular, Typescript, Node.js.
 * ⚡  In my free time occasionally I stream games.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ChanoChoca&show_icons=true&theme=radical" alt="ChanoChoca" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanoChoca)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chanochoca&show_icons=true&theme=radical" alt="ChanoChoca" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanoChoca&theme=radical" alt="Top Langs">
+</p>
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChanoChoca\&layout=compact)
+
 
 ### Skills
 
