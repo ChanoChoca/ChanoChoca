@@ -13,7 +13,7 @@ I'm a Full Stack developer with a primary focus on backend development in Java. 
 * ⚡  In my free time occasionally I stream games.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ChanoChoca&show_icons=true&theme=radical" alt="ChanoChoca" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanoChoca&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanoChoca)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
