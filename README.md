@@ -1,7 +1,7 @@
 Hi 👋 My name is Juan Ignacio Caprioli
 ======================================
 
-Full Stack Developer
+Java Developer | Full Stack Developer
 --------------------
 
 I'm a Full Stack developer with a primary focus on backend development in Java.
