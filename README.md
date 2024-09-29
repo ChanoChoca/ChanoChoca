@@ -4,13 +4,11 @@ Hi 👋 My name is Juan Ignacio Caprioli
 Full Stack Developer
 --------------------
 
-I'm a Full Stack developer with a primary focus on backend development in Java. I understand Spring Boot, PostgreSQL, MySQL, React, Javascript, Sass, Boostrap - Tailwind.
+I'm a Full Stack developer with a primary focus on backend development in Java.
 
 * 🌍  I'm based in Junín, Buenos Aires, Argentina.
 * 🖥️  See my portfolio at [My Portfolio](http://juancaprioli.infinityfreeapp.com/)
 * ✉️  You can contact me at [juanicaprioli16@outlook.com](mailto:juanicaprioli16@outlook.com)
-* 🧠  I'm learning Angular, Typescript, Node.js.
-* ⚡  In my free time occasionally I stream games.
 --------------------
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chanochoca&show_icons=true&theme=synthwave" alt="ChanoChoca"></p>
