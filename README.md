@@ -63,7 +63,7 @@ I'm a Full Stack developer with a primary focus on backend development in Java.
 
 <h2 align=center>Socials</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/juan-ignacio-caprioli-2a645422b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
