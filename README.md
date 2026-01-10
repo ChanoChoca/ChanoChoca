@@ -15,7 +15,7 @@ I'm a Full Stack developer with a primary focus on backend development in Java.
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanoChoca&theme=synthwave" alt="Top Langs"></p>
-
+[![ChanoChoca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanoChoca)](https://github.com/chanochoca/github-readme-stats)
 
 <h2 align=center>Skills</h2>
 
